@@ -1,0 +1,12 @@
+<div class="container">
+
+  <h1>Shopping List</h1>
+  <app-add-item
+    (addItemEvent)="addItem($event)">
+  </app-add-item>
+  <app-shopping-list
+    [items]="items"
+    (deleteItemEvent)="deleteItem($event)">
+  </app-shopping-list>
+
+</div>

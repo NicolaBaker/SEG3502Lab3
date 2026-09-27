@@ -1,0 +1,17 @@
+.add-item {
+  display: flex;
+  gap: 11px;
+  margin-bottom: 19px;
+}
+
+input {
+  flex: 1;
+  text-align: center;
+  padding: 9px;
+  border-radius: 19px;
+}
+
+button {
+  padding: 9px 17px;
+  border-radius: 19px;
+}
