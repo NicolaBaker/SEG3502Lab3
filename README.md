@@ -16,6 +16,7 @@ cd SEG3502Lab3/shopping-list
 
 Vérifier que **Node.js**, **npm** et **Angular CLI** sont installés.
 
+#Steps
 Installer les dépendances du projet :
 
 ```bash
